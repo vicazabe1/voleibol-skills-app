@@ -480,11 +480,7 @@ const App = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-purple-100 to-indigo-200 p-4 font-inter text-gray-800 flex flex-col items-center">
-            {/* Tailwind CSS CDN script */}
-            <script src="https://cdn.tailwindcss.com"></script>
-            {/* Google Font - Inter */}
-            <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
-
+            
             {/* Header */}
             <h1 className="text-4xl md:text-5xl font-extrabold text-purple-800 mb-8 mt-4 text-center">
                 Torneo Individual de Habilidades de Voleibol
